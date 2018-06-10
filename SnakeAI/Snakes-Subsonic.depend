@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1528634965 source:c:\users\bodhisatan\desktop\snakes-subsonic\main.cpp
+	"Function.h"
+
+1528634965 c:\users\bodhisatan\desktop\snakes-subsonic\function.h
+	"Prepare.h"
+
+1528634965 c:\users\bodhisatan\desktop\snakes-subsonic\prepare.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<list>
+	<queue>
+	<iterator>
+	<stack>
+
+1528651646 source:c:\users\bodhisatan\desktop\snakes-subsonic\snakeai\main.cpp
+	"Function.h"
+
+1528651658 c:\users\bodhisatan\desktop\snakes-subsonic\snakeai\function.h
+	"Prepare.h"
+
+1528651920 c:\users\bodhisatan\desktop\snakes-subsonic\snakeai\prepare.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<list>
+	<queue>
+	<iterator>
+	<stack>
+
