@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528739421 source:f:\github\snakes-subsonic\snake\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+

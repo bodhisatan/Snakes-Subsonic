@@ -1,0 +1,4 @@
+NAME	SCORE	LEVEL	LENGTH	SPEED	NUM
+Alice	0	1	4	0.0s	0
+Bob	7	1	11	0.33s	7
+Alice	5	1	9	0.55s	5
